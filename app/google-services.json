@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017282068907",
+    "firebase_url": "https://job-portal-app-1c851-default-rtdb.firebaseio.com",
+    "project_id": "job-portal-app-1c851",
+    "storage_bucket": "job-portal-app-1c851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017282068907:android:5670d3d81efec4d10f92ee",
+        "android_client_info": {
+          "package_name": "com.example.food_wastage_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3d-SJDDkzLP1ppdYYQT2maTo-4XEOfUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
